@@ -1,5 +1,3 @@
-from tracemalloc import take_snapshot
-from turtle import pos
 from django import template
 from ..forms import CommentForm
 
